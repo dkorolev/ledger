@@ -1,4 +1,4 @@
-This file is a public record of urbti invitations ditributed by Tlon.
+This file is a public record of urbit invitations ditributed by Tlon.
 
 Cryptographic blobs below were generated with `@uw`(en:crua $invite '$email-address')
 
